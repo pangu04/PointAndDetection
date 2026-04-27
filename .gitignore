@@ -1,0 +1,94 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS
+.DS_Store
+Thumbs.db
+*.log
+
+# Streamlit
+.streamlit/
+.streamlit/secrets.toml
+
+# YOLO & Models
+*.pt
+
+# Documentation (Local - không push lên git)
+CODE_EXPLANATION.md
+*.pth
+models/
+yolov8n.pt
+yolov8s.pt
+yolov8m.pt
+.cache/
+
+# Ollama
+ollama_models/
+.ollama/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Temp files
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# VS Code workspace settings (optional - uncomment if needed)
+# .vscode/settings.json
+# .vscode/launch.json
+
+# macOS
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+ehthumbs.db
+Desktop.ini
+
+# Project specific
+*.csv
+*.json
+!requirements.txt
+cache/
+temp/
