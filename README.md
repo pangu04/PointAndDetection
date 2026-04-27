@@ -38,7 +38,7 @@ streamlit run main/point_detection_v2.py
 
 # Project Structure
 
-
+```
 PointAndDetection/
 ├── main/
 │   └── point_detection_v2.py     # Main application
@@ -47,7 +47,7 @@ PointAndDetection/
 ├── requirements.txt              # Python dependencies
 ├── .gitignore                    # Git exclusion rules
 └── venv/                         # Virtual environment
-
+```
 
 # Result
 Object Detection
