@@ -51,10 +51,14 @@ PointAndDetection/
 
 # Result
 Object Detection
+
 <img src="./assets/1.png" width="300"/>
 <img src="./assets/2.png" width="300"/>
 <img src="./assets/4.png" width="300"/>
+
+
 Since the video is in 2D while the real world is 3D, the projected line may point to the wrong object or intersect with multiple objects along its path.
+
 <img src="./assets/3.png" width="300"/>
 
 
